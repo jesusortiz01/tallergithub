@@ -1,0 +1,5 @@
+.
+├── ejemplo_taller.txt
+└── folders_system.txt
+
+0 directories, 2 files
